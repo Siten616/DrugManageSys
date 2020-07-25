@@ -1,0 +1,12 @@
+.main {
+	width: 80%;
+}
+.backgroundImage{
+	background-image:url("../images/呼伦贝尔河道.jpg");
+	background-size: cover;
+	height:1000px;
+}
+.mycart {
+	color: black;
+}
+
